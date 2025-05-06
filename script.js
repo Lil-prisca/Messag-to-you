@@ -6,7 +6,7 @@ let alert = document.querySelector(".alert");
 let scontainer = document.querySelector(".secondContainer");
 let fname = document.querySelector(".firstName");
 let lname = document.querySelector(".SecondName");
-let image = "./image/promise-3.jpg";
+let image = "./promise-3.jpg";
 let wishes = document.createTextNode("HAPPY BIRTHDAY TO YOU");
 let wishes1 = document.createTextNode(
   "Hey bestie! 😊💕🎉 I just wanted to take a moment to wish you a happy birthday! 🎂🍰🎁 It's been a long while I knew this cry baby 😂, she can so cry over every little issue 🤣, I guess she just gets too emotional attached easily 💔. Regardless, we would always be there for you baby (the only baby we have now) 👶. Even though she can also stress your life o 😩, but I'm so grateful to have you in my life 🙏. I know you can get emotional at times 🤗, but that's just part of what makes you so caring and loving ❤."
